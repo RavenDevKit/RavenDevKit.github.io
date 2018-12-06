@@ -1,4 +1,4 @@
-# Welcome to the Ravencoin DevKit Codebase
+# Welcome to the Ravencoin.com website Codebase
 ## READ.ME under construction!
 Current Build Status: ![Build Status](https://travis-ci.org/RavenProject/Ravencoin.svg?branch=master)
 Live site: [Ravencoin.com](https://ravencoin.com)
