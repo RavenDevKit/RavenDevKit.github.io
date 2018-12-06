@@ -1,8 +1,10 @@
-# Welcome to the Ravencoin.com website Codebase
+# Welcome to the Ravencoin.com website codebase
 ## READ.ME under construction!
 Current Build Status: ![Build Status](https://travis-ci.org/RavenProject/Ravencoin.svg?branch=master)
 Live site: [Ravencoin.com](https://ravencoin.com)
 Report problems or help improve the site by opening a [new issue](https://github.com/RavenProject/ravenproject.github.io.org/issues/new) or [pull request](https://github.com/RavenProject/ravenproject.github.io.org/compare).
+
+> Note: The ravencoin.org website source can be found at https://github.com/RavenProject/ravenproject.github.io
 
 ## Earn Raven for Contributing to the Raven website (TBD)
 Open issues [labeled with "Bounty"](https://github.com/RavenProject/ravenproject.github.io/labels/Bounty)
