@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 # Welcome to future Ravencoin.org website codebase
+=======
+# Welcome to the Ravencoin.com website codebase
+>>>>>>> 3212e42fe9a08be5aa9f9c2c9ef97619bf096e8d
 ## READ.ME under construction!
 Current Build Status: ![Build Status](https://travis-ci.org/RavenProject/Ravencoin.svg?branch=master)
 Live site: [temp.ravencoin.org](https://temp.ravencoin.org)
 Report problems or help improve the site by opening a [new issue](https://github.com/RavenProject/ravenproject.github.io.org/issues/new) or [pull request](https://github.com/RavenProject/ravenproject.github.io.org/compare).
 
+<<<<<<< HEAD
 > Note: The Ravencoin.com website source has moved to https://github.com/RavenDevKit/RavenDevKit.github.io
+=======
+> Note: The ravencoin.org website source can be found at https://github.com/RavenProject/ravenproject.github.io
+>>>>>>> 3212e42fe9a08be5aa9f9c2c9ef97619bf096e8d
 
 ## Earn Raven for Contributing to the Raven website (TBD)
 Open issues [labeled with "Bounty"](https://github.com/RavenProject/ravenproject.github.io/labels/Bounty)
