@@ -5,4 +5,4 @@
 layout: null
 ---
 
-Sitemap: https://ravencoin.org/sitemap.xml
+Sitemap: https://ravencoin.com/sitemap.xml
